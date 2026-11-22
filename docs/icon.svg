@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">CodeScope 应用图标</title>
+  <desc id="desc">深色圆角方块中，一对大括号包含 GIT 字样</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#17242f" />
+      <stop offset="1" stop-color="#0a1016" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)" />
+  <rect x="14" y="14" width="484" height="484" rx="100" fill="none" stroke="#2f8f9d" stroke-opacity="0.4" stroke-width="6" />
+  <g fill="none" stroke="#dbe4ee" stroke-width="26" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M196 104 C160 104 138 132 138 168 L138 212 C138 238 124 256 86 256 C124 256 138 274 138 300 L138 344 C138 380 160 408 196 408" />
+    <path d="M316 104 C352 104 374 132 374 168 L374 212 C374 238 388 256 426 256 C388 256 374 274 374 300 L374 344 C374 380 352 408 316 408" />
+  </g>
+  <text x="256" y="297" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="104" font-weight="800" letter-spacing="8" fill="#3fb6c9">GIT</text>
+</svg>

@@ -31,6 +31,8 @@ def main() -> None:
         "--windowed",
         "--name",
         "CodeScope",
+        "--icon",
+        str(ROOT / "docs" / "icon.ico"),
         "--paths",
         str(ROOT),
         "--distpath",
