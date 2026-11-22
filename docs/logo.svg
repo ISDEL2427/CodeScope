@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-labelledby="title desc">
+  <title id="title">CodeScope</title>
+  <desc id="desc">一对大括号中间包含 GIT 字样</desc>
+  <g fill="none" stroke="#5b6b7c" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M88 26 C72 26 64 38 64 54 L64 80 C64 92 58 100 42 100 C58 100 64 108 64 120 L64 146 C64 162 72 174 88 174" />
+    <path d="M212 26 C228 26 236 38 236 54 L236 80 C236 92 242 100 258 100 C242 100 236 108 236 120 L236 146 C236 162 228 174 212 174" />
+  </g>
+  <text x="150" y="117" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="46" font-weight="800" letter-spacing="5" fill="#2f8f9d">GIT</text>
+</svg>
